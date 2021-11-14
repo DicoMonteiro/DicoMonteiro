@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 ## Technologies and Tools
 
-[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=DicoMonteiro)](https://github.com/DicoMonteiro/github-readme-stats)
+[![DicoMonteiro GitHub stats](https://github-readme-stats.vercel.app/api?username=DicoMonteiro)](https://github.com/DicoMonteiro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DicoMonteiro&layout=compact)](https://github.com/DicoMonteiro/github-readme-stats)
 
 
-
-<code><img height="20" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></code> <code><img height="20" src="	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code> <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code> <code><img height="20" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></code> <code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code> <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code> <code><img height="20" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></code>

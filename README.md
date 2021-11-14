@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DicoMonteiro)](https://github.com/DicoMonteiro)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/adriano-barreto-monteiro-almeida/)](https://www.linkedin.com/in/adriano-barreto-monteiro-almeida/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/adriano-barreto-monteiro-almeida)](https://www.linkedin.com/in/adriano-barreto-monteiro-almeida)

@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## I'm Adriano Almeida
 
-:computer: I'm Quality Assurance!
-:house_with_garden: I’m from Brazil.
-:books: I’m currently learning everything.
+:computer: I'm Quality Assurance!<br>
+:house_with_garden: I’m from Brazil.<br>
+:books: I’m currently learning everything.<br>
 :outbox_tray: 2022 Goals: create a new projects and study differents technologies.
 
 ## About me
